@@ -14,3 +14,8 @@ httpx
 python-dotenv
 bcrypt==4.0.1
 passlib[bcrypt]==1.7.4
+langchain 
+langchain-community 
+pypdf 
+langchain-groq
+transformers

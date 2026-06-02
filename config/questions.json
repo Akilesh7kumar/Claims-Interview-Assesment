@@ -1,0 +1,22 @@
+{
+    "Questions":{
+        "Q1":"Can you describe exactly what happened during the incident?",
+        "Q2":"When did the incident occur (date and time)?",
+        "Q3":"Where did the incident occur?",
+        "Q4":"What were you doing immediately before the incident happened?",
+        "Q5":"Who was involved in the incident?",
+        "Q6":"Were you drunk while driving?  yes, what was your blood alcIfohol concentration (BAC) at the time of the incident?",
+        "Q7":"Was anyone injured? If yes, what injuries were sustained?",
+        "Q8":"Did you seek medical treatment? If yes, where and when?",
+        "Q9":"Was the incident reported to the police or any authority?",
+        "Q10":"Do you have any supporting evidence such as photos, videos,```` or documents?",
+        "Q11":"What property or vehicle was damaged?",
+        "Q12":"Can you describe the extent of the damage?",
+        "Q13":"Have you obtained any repair estimates or invoices?",
+        "Q14":"Have you made any previous claims related to this asset or a similar incident?",
+        "Q15":"Is there any additional information that may help us assess this claim?"
+
+}
+
+}
+
